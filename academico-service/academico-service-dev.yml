@@ -1,0 +1,10 @@
+spring:
+  datasource:
+    url: jdbc:postgresql://postgres:5432/academico
+    username: '{cypher}97d5d3ca6fdacee9f9950c45f3a8805dc1f6ac96913c85aace7f4ba695edc365'
+    password: '{cypher}97d5d3ca6fdacee9f9950c45f3a8805dc1f6ac96913c85aace7f4ba695edc365'
+    driver-class-name: org.postgresql.Driver
+
+logging:
+  level:
+    root: INFO
